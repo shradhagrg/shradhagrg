@@ -17,7 +17,7 @@
   
 - <b>Java</b>
   - [Number Guessing Game](https://github.com/shradhagrg/number_guessing_game.git)
-  - [BMI Calculator](https://github.com/shradhagrg/BMI_calculator.git)
+  - [BMI Calculator](https://github.com/shradhagrg/BMICalculator.java.git)
 
 - <b>Object-oriented programming projects</b>
   - [Quiz](https://github.com/shradhagrg/quiz_game_OOP.git)
