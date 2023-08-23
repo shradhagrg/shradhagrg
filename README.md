@@ -3,7 +3,7 @@
 <h2>About me</h2>
 <b>I am an aspirational programmer with basic self taught knowlege, mainly in Python. I am also eager to learn Javascript, Java, and SQL! </b>
 
-<h2>Projects I completed through courses on Udemy: </h2>
+<h2>Projects I completed through courses on Udemy and Code Academy: </h2>
 
 - <b>Python</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
