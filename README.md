@@ -6,7 +6,6 @@
 <h2>Projects I completed through courses on Udemy and Code Academy: </h2>
 
 - <b>Python</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Rock, Paper Scissors Game](https://github.com/shradhagrg/rock_paper_scissors_game.git)
   - [Treasure Island Game](https://github.com/shradhagrg/treasure_island_game.git)
   - [Tip Calculator](https://github.com/shradhagrg/tip_calculator.git)
