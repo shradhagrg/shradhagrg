@@ -1,9 +1,9 @@
-<h1>Hi, I'm Shradha! </h1>
+# Hi, I'm Shradha!
 
-<h2>About me</h2>
+## About me
 <b>I am an aspirational programmer with basic self taught knowlege, mainly in Python. I am also eager to learn Javascript, Java, and SQL! </b>
 
-<h2>Projects I completed through courses on Udemy and Code Academy: </h2>
+## Projects I completed through courses on Udemy and Code Academy:
 
 - <b>Python</b>
   - [Rock, Paper Scissors Game](https://github.com/shradhagrg/rock_paper_scissors_game.git)
