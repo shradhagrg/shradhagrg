@@ -1,7 +1,7 @@
 # Hi, I'm Shradha!
 
 ## About me
-<b>I am an aspirational programmer with basic self taught knowlege, mainly in Python. I am also eager to learn Javascript, Java, and SQL! </b>
+<b>I am an aspirational programmer with basic self taught knowlege, mainly in Python and Java. I am also eager to learn Javascript and SQL! </b>
 
 ## Projects I completed through courses on Udemy and Code Academy:
 
