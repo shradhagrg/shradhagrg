@@ -1,7 +1,9 @@
 # Hi, I'm Shradha!
 
 ## About me
-<b>I am an aspirational programmer with basic self taught knowlege, mainly in Python and Java. I am also eager to learn Javascript and SQL! </b>
+<b>I am an aspirational Cyber Security Analyst currently studying the importance of cybersecurity practices. 
+
+I have also utilised online coding platforms to self-learn Python; my GitHub repositry is to demonstrate and record progress of my coding journey. 
 
 ## Projects I completed through courses on Udemy and Code Academy:
 
