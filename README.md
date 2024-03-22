@@ -1,9 +1,9 @@
 # Hi, I'm Shradha!
 
 ## About me
-<b>I am an aspirational Penetration Tester/Cyber Security Perfessional currently studying the importance of cybersecurity practices. 
+<b>I am an aspirational Cyber Security Perfessional with a strong interest in penetration testing, currently studying the importance of cybersecurity practices. 
 
-I have also utilised online coding platforms to self-learn Python; my GitHub repository is to demonstrate and record progress of my coding journey. 
+I have also utilised online coding platforms to self-learn Python. I created my GitHub to demonstrate and record progress of my coding journey!
 
 ## Projects I completed through courses on Udemy and Code Academy:
 
